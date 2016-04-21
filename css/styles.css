@@ -283,7 +283,7 @@ h1 {
   z-index: 1;
   opacity: 0.5; }
   .header-container .bcg {
-    background-image: url(../img/slide-1.jpg);
+    background-image: url(../img/slide-1-small.jpg);
     background-size: cover; }
   #slide01 .bcg {
     background: url(../img/macbook.jpg) no-repeat center center;
