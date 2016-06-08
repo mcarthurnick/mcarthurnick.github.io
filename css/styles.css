@@ -297,7 +297,7 @@ h1 {
     opacity: 0.7; }
 
 #frameworkIcon {
-    height: 200px;
+    height: 180px;
     width: auto;
     margin: 15px;
 }
@@ -563,7 +563,19 @@ p {
   nav {
     display: block; }
   .content-block .wrapper {
-    padding: 120px 0; } }
+    padding: 120px 0; }
+
+  }
+
+  @media only screen and (max-width: 500px) {
+
+    #frameworkIcon {
+        height: 100px;
+        width: auto;
+        margin: 10px;
+    }
+
+  }
 
 /* ==========================================================================
    Helper classes
